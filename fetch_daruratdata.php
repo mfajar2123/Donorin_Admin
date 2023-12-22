@@ -3,7 +3,7 @@
 include 'config.php';
 
 // Query untuk mendapatkan data darahdarurat
-$query = "SELECT id, nama, gol_darah, deskripsi FROM darahdarurat";
+$query = "SELECT * FROM darahdarurat";
 $result = $conn->query($query);
 
 $data = array();
