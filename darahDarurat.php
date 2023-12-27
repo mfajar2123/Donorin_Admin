@@ -139,10 +139,14 @@
                         <div class="mb-3">
                             <label for="golDarahSelect" class="form-label">Golongan Darah</label>
                             <select class="form-select" id="golDarahSelect">
-                                <option value="A">A</option>
-                                <option value="B">B</option>
-                                <option value="AB">AB</option>
-                                <option value="O">O</option>
+                                <option value="A+">A+</option>
+                                <option value="A-">A-</option>
+                                <option value="B+">B+</option>
+                                <option value="B-">B+</option>
+                                <option value="O+">O+</option>
+                                <option value="O-">O-</option>
+                                <option value="AB+">AB+</option>
+                                <option value="AB-">AB-</option>
                             </select>
                         </div>
                         <div class="mb-3">

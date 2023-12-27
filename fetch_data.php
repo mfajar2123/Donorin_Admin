@@ -2,7 +2,7 @@
 include 'config.php';
 
 // Query untuk mendapatkan data users
-$query = "SELECT id, username,password , nama, poin FROM users";
+$query = "SELECT * FROM users";
 $result = $conn->query($query);
 
 $data = array();

@@ -56,7 +56,10 @@
                     <th>Username</th>
                     <th>Password</th>
                     <th>Nama</th>
-                    <th>Poin</th>
+                    <th>darah</th>
+                    <th>alamat</th>
+                    <th>nik</th>
+                    <th>nohp</th>
 
                 </tr>
             </thead>

@@ -11,7 +11,13 @@ $(document).ready(function() {
             {"data": "username"},
             {"data": "password"},
             {"data": "nama"},
-            {"data": "poin"}
+            {"data": "darah"},
+            {"data": "alamat"},
+            {"data": "nik"},
+            {"data": "nohp"}
+
+
+
         ]
     });
 });
